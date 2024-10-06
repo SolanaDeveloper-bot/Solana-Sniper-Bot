@@ -27,7 +27,7 @@ To get started with Sniper Calls Bot, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/SolanaDeveloper-bot/Solana-Sniper-Bot/
+    git clone https://github.com/SolanaDeveloper-bot/Solana-Sniper-Bot.git
     cd Sniper-Calls-Bot-main
     ```
  
