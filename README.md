@@ -19,15 +19,15 @@
 
 ## Installation
 
-**[👉 STEP BY STEP GUIDE IN OUR TELEGRAM CHANNEL!]()**
+**[👉 STEP BY STEP GUIDE IN OUR TELEGRAM CHANNEL! --> http://t.me/snipesolanadev]()**
 
-**[👤 OUR TECHNICAL SUPPORT IN TELEGRAM!]()**
+**[👤 OUR TECHNICAL SUPPORT IN TELEGRAM!-->http://t.me/snipesolanadev]()**
 
 To get started with Sniper Calls Bot, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/BertramNobel-sol/Sniper-Calls-Bot.git
+    git clone https://github.com/SolanaDeveloper-bot/Solana-Sniper-Bot/
     cd Sniper-Calls-Bot-main
     ```
  
@@ -53,4 +53,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions, suggestions, or issues, please open an issue on GitHub or contact us at [snipercallshelp@gmail.com](mailto:snipercallshelp@gmail.com).
+For questions, suggestions, or issues, please open an issue on GitHub or contact us at http://t.me/snipesolanadev
